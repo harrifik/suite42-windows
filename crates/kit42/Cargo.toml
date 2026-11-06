@@ -1,0 +1,24 @@
+[package]
+name = "kit42"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+eframe.workspace = true
+egui.workspace = true
+rfd.workspace = true
+image.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+flate2.workspace = true
+ttf-parser.workspace = true
+ab_glyph.workspace = true
+tiny-skia.workspace = true
+zip.workspace = true
+roxmltree.workspace = true
+encoding_rs.workspace = true
+rand.workspace = true
+chrono.workspace = true
+arboard.workspace = true
+windows.workspace = true
